@@ -1,0 +1,13 @@
+
+.c-skin{
+    color: var(--skin-color);
+}
+.main-btn{
+    background: var(--skin-color);
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    color: #eee;
+    font-weight: 600;
+}
